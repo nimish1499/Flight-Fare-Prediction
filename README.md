@@ -2,8 +2,10 @@
 
 ## Demo
 Link: https://flightfarecalculator.herokuapp.com/predict/
-![Uploading Flight1.png…](https://drive.google.com/file/d/1n8cVg4jfI0JVLuslChm0eSzvO38WtA_i/view?usp=sharing)
-![Uploading Flight2.png…](https://drive.google.com/file/d/1VHvP3H65e2CzXAmcaHQ9K_MH9qToMyLf/view?usp=sharing)
+
+![Uploading Flight1.png…](https://drive.google.com/uc?export=view&id=1n8cVg4jfI0JVLuslChm0eSzvO38WtA_i)
+
+![Uploading Flight2.png…](https://drive.google.com/uc?export=view&id=1VHvP3H65e2CzXAmcaHQ9K_MH9qToMyLf)
 
 
 
@@ -22,7 +24,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
-## Documentation
+## Directory Tree 
 ~~~javascript
 ├── static 
 │   ├── css
@@ -37,6 +39,12 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ~~~
 
+## Technologies Used
+![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)
+
+![](https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png)
+
+
 ## Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/nimish1499/Flight-Fare-Prediction/issues) by including your search query and the expected result.
 
@@ -44,3 +52,4 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 * Using Multiple Algorithms
 * Optimize Flask app.py
 * Front-End
+
