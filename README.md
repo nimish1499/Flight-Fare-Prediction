@@ -1,7 +1,7 @@
 # Flight-Fare-Prediction
 
 ## Demo
-Link: https://flightfarecalculator.herokuapp.com/predict/
+Link: https://flightfarecalculator.herokuapp.com/predict
 
 ![Uploading Flight1.png…](https://drive.google.com/uc?export=view&id=1n8cVg4jfI0JVLuslChm0eSzvO38WtA_i)
 
